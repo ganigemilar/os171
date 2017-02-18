@@ -1,0 +1,8 @@
+w00-170204-19-LR-About: Introduction to Operating System, From: Lecturer
+w00-170204-19-LR-About: Introduction to Operating System, From: Lecturer
+w00-170204-20-LR-About: Introduction to Operating System, From: Lecturer
+w00-170204-20-LR-About: Introduction to Operating System, From: Lecturer
+w01-170204-19-LR-About: Operating System Structure, From: Lecturer
+w01-170204-19-LR-About: Operating System Structure, From: Lecturer
+w01-170204-20-PS-About: Shell Scripting, From: Lecturer
+w01-170204-20-PS-About: Shell Scripting, From: Lecturer
